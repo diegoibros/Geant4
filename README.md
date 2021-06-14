@@ -47,10 +47,10 @@ Same steps but using : SB_sim_monoenergetic.tar.xz
 
 Now the files required and copied from SB_sim_REQ are:
 
-test.txt-- It set the kinetec energy for the magneic field reference value, $B_0$.
+test.txt-- It chooses kinetic energy for the magneic field reference value, $B_0$.
 
 primary_angles.txt -- The angles for the emission of the particles
 
-primary_E.txt -- It sets the kinetic energy of the monoenergetic beam to produce, by default they are electrons.
+primary_E.txt -- It sets the kinetic energy of the monoenergetic beam to produce. By default they are electrons.
 
 
